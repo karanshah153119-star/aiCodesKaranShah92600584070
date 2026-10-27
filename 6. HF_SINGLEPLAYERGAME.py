@@ -1,3 +1,5 @@
+#Student Name :- karan shah
+#Student Enrollment No :- 92600584070
 # 6. Write a program to implement Single Player Game (Using Heuristic Function). 
 
 # Goal state
