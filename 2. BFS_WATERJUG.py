@@ -1,3 +1,5 @@
+#Student Name :- karan shah
+#Student Enrollment No :- 92600584070
 CAP_A = 4 
 CAP_B = 3 
 GOAL = 2 
