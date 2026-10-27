@@ -1,4 +1,5 @@
- 
+#Student Name :- karan shah
+#Student Enrollment No :- 92600584070 
 # N-Queens Problem
 # No two queens can be in the same row, column, or diagonal
 
