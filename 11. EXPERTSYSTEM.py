@@ -1,3 +1,5 @@
+#Student Name :- karan shah
+#Student Enrollment No :- 92600584070
 # Expert system
 # Answer the follwing questionwith yes / no.
     #Do oyu have fever? : Yes / No
